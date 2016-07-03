@@ -54,7 +54,7 @@
   </li>
 </ul>
 
-<script type="java/javascript" src="index1.js"></script>
+<script type="text/javascript" src="index1.js"></script>
 
 </body>
 </html>
